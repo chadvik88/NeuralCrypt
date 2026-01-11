@@ -88,12 +88,12 @@ F -> T ███████ 7
 O -> A ████████ 8
 P -> C ██████ 6
 V -> K ██████ 6
-E ->   ███ 3
-F -> A █████ 5
-R -> T ███████ 7
-N -> D ██████ 6
-H -> A █████ 5
-R -> W ███████ 7
+E -> A  ███ 3
+F -> T █████ 5
+R -> D ███████ 7
+N -> A ██████ 6
+H -> W █████ 5
+R -> N ███████ 7
 ```
 
 This gives insight into how the model assigns importance to each ciphertext character during decryption.  
