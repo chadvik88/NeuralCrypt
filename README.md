@@ -88,7 +88,7 @@ F -> T ███████ 7
 O -> A ████████ 8
 P -> C ██████ 6
 V -> K ██████ 6
-E -> A  ███ 3
+E -> A ███ 3
 F -> T █████ 5
 R -> D ███████ 7
 N -> A ██████ 6
@@ -98,7 +98,7 @@ R -> N ███████ 7
 
 This gives insight into how the model assigns importance to each ciphertext character during decryption.  
 
-## Screenshots
+## Sample Screenshots (Real data ones are proprietary)
 
 <p align="center">
   <img src="/images/neurl2.png" width="450"/>
