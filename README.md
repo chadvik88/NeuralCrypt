@@ -81,7 +81,7 @@ Ciphertext: LXFOP VEFRNHR
 Predicted: ATTACK AT DAWN
 
 Mapping Attention Weights (0-9 scale):
-
+```
 L -> A ████████ 8
 X -> T ██████ 6
 F -> T ███████ 7
@@ -94,11 +94,16 @@ R -> T ███████ 7
 N -> D ██████ 6
 H -> A █████ 5
 R -> W ███████ 7
-
+```
 
 This gives insight into how the model assigns importance to each ciphertext character during decryption.  
 
----
+## Screenshots
+
+<p align="center">
+  <img src="/images/neurl2.png" width="450"/>
+  <img src="/images/neurl.png" width="450"/>
+</p>
 
 ## Sample Runs
 -----------------------------------------------------------------------
